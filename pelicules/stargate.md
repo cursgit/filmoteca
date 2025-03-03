@@ -1,10 +1,10 @@
 # STARGATE
 
 ## Sinopsi
-Un equipo de militares y un científico parten hacia un planeta desconocido a través de una puerta estelar descubierta en una excavación en Egipto.
+- Un equipo de militares y un científico parten hacia un planeta desconocido a través de una puerta estelar descubierta en una excavación en Egipto.
 
 ## Gènere
-Ciencia Ficción
+- Ciencia Ficción
 
 ## Repartiment
 - Coronel Jonathan 'Jack' O'Neil - Kurt Russell
