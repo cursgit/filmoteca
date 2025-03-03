@@ -12,5 +12,4 @@ La Ilíada es un poema de género épico que trata el asedio de la ciudad de Tro
 - Poesia
 
 ## Bibliografia
-
 - https://www.culturagenial.com/es/la-iliada/
