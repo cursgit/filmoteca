@@ -1,5 +1,4 @@
 # El joc de l'Ender
-
 - __Autor__: Orson Scott Card
 - __Títol original__: Ender's game
 - __Any__: 1985
@@ -12,7 +11,5 @@ La Terra pateix l'amenaça dels insectors, uns éssers que es comuniquen mitjan�
 - Aventures
 - Política
 
-
 ## Bibliografia
-
 - [El joc de l'Ender (novel·la)](https://ca.wikipedia.org/wiki/El_joc_de_l%27Ender_(novel%C2%B7la))
