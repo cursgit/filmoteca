@@ -1,4 +1,4 @@
-# Títol de la pel·lícula
+# STARGATE
 
 ## Sinopsi
 Un equipo de militares y un científico parten hacia un planeta desconocido a través de una puerta estelar descubierta en una excavación en Egipto.
