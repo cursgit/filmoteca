@@ -1,5 +1,4 @@
 # La Iliada
-
 - __Autor__: Anonimo
 - __Títol original__: La ILiada
 - __Any__: 154 ad
