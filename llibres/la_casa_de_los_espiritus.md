@@ -1,5 +1,4 @@
 # Títol del llibre
-
 - Autor: Isabel Allende 
 - Any: 2022
 
