@@ -3,7 +3,7 @@
 ## Sinopsi
 Un grup de xiquets descobreix un món paral·lel anomenat El Revés mentre investiguen la desaparició d’un amic, enmig de successos paranormals i experiments secrets.
 
-## Gènere
+## Gèneres
 - Ciència-ficció
 - Terror
 - Misteri
