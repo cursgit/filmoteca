@@ -3,7 +3,7 @@
 ## Sinopsis
 El Dr. Gregory House es un médico brillante pero poco convencional y antisocial que lidera un equipo de diagnóstico en un hospital. Utiliza métodos poco ortodoxos para resolver casos médicos complejos que nadie más puede diagnosticar.
 
-## Género
+## Géneros
 - Drama médico
 - Misterio
 
