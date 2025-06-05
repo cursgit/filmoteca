@@ -3,7 +3,7 @@
 ## Sinopsi
 [Sinopsi de la pel·lícula.]
 
-## Gènere
+## Gèneres
 - [Gènere 1]
 - [Gènere 2]
 - ...
