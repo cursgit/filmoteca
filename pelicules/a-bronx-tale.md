@@ -3,7 +3,7 @@
 ## Sinopsi
 Un pare es preocupa quan el seu fill estableix amistat amb un gàngster local en els anys 60.
 
-## Gènere
+## Gèneres
 - Crimen
 - Drama
 
