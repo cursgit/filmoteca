@@ -10,7 +10,7 @@ Els fitxers amb informació de les pel·lícules tenen generalment el següent f
 ## Sinopsi
 [Sinopsi de la pel·lícula.]
 
-## Gènere
+## Gèneres
 - [Gènere 1]
 - [Gènere 2]
 - ...
