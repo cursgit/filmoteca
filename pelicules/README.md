@@ -1,3 +1,10 @@
+# Pel·lícules
+En aquest directori tenim un recull amb informació de diferents pel·lícules.
+
+## Estructura dels fitxers
+Els fitxers amb informació de les pel·lícules tenen generalment el següent format:
+
+```md
 # [Títol de la pel·lícula]
 
 ## Sinopsi
@@ -10,3 +17,8 @@
 
 ## Repartiment
 [Directors, actrius i actors principals.]
+```
+> Modifica els apartats entre `[ ]`
+
+A més, podeu incloure informació addicional.   
+
