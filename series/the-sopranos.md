@@ -1,17 +1,14 @@
 # The Sopranos
 
 ## Sinopsi
-
 _The Sopranos_ seguix la vida de Tony Soprano, un cap mafiós de Nova Jersey que intenta equilibrar les seues responsabilitats criminals amb la vida familiar. A través de les sessions amb la seua psiquiatra, la doctora Melfi, es revelen les seues angoixes, conflictes personals i el cost emocional de viure una doble vida.
 
 ## Gènere
-
 - Drama
 - Crim
 - Thriller psicològic
 
 ## Temporades
-
 La sèrie compta amb 6 temporades:
 
 1. **Temporada 1** (1999) – Presentació del món de Tony Soprano i els seus conflictes personals i familiars.
