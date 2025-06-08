@@ -4,7 +4,7 @@
 Serie que refleja la vida en el tranquilo Pawnee, Indiana, y más concretamente, en el departamento de Parques del Ayuntamiento, con sus peculiares empleados.
 
 ## Géneros
-Comedia
+- Comedia
 
 ## Temporadas
 - Temporada 1: Inicio
