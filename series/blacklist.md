@@ -4,8 +4,9 @@
 Serie d'acció´on Raymond Reddington, un dels criminals més buscats per la FBI, accepta ajudar a capturar als criminals més perillosos amb la condició que la FBI incorpore a una nova policia Elisabeth Keen.
 
 ## Gènere
-- 
-- 
+- Thriller
+- Crim
+- Drama
 
 ## Temporades
 9 temporadas:
