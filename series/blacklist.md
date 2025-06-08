@@ -1,4 +1,9 @@
 # The Blacklist
+The Blacklist és una sèrie d'USA creada per Jon Bokenkamp l'any 2013.
+Títol: The BlackList
+Any: 2013
+Creador: Jon Bokenkamp
+
 
 ## Sinopsi
 Serie d'acció´on Raymond Reddington, un dels criminals més buscats per la FBI, accepta ajudar a capturar als criminals més perillosos amb la condició que la FBI incorpore a una nova policia Elisabeth Keen.
