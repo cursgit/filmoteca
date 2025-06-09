@@ -10,6 +10,6 @@
       Finalment l'acompanyem en la primera gran victòria com a general romà (als 25 anys), en conquerir la inexpugnable Cartago Nova 
       (capital cartaginesa a Hispània), l'actual Cartagena.
       
-      ## Gènere
+      ## Gèneres
       - Novel.la històrica
       - Ficción històrica
