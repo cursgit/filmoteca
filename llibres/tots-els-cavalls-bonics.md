@@ -1,4 +1,5 @@
-# Tots els cavalls bonics (All the pretty horses)
+# Tots els cavalls bonics
+- __Títol original__: All the pretty horses
 - __Autor__: Cormac McCarthy
 - __Any__: 1992
 
