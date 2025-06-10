@@ -1,4 +1,4 @@
-# EL ASESINATO DE ROGER ACKROYD
+# El asesinato de Roger Ackroyd
 - __Autor__: Agatha Christie
 - __Año__: 1926
   
