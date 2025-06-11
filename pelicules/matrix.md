@@ -9,8 +9,10 @@ En un futur distòpic, un programador informàtic anomenat Thomas Anderson, que 
 - Ciberpunk
 
 ## Repartiment
-- Direcció: Les germanes Wachowski (Lana Wachowski, Lilly Wachowski)
-- Actors i actrius principals:
+- __Direcció__: Les germanes Wachowski 
+    - Lana Wachowski
+    - Lilly Wachowski
+- __Actors i actrius principals__:
     - Keanu Reeves (Neo)
     - Laurence Fishburne (Morpheus)
     - Carrie-Anne Moss (Trinity)
