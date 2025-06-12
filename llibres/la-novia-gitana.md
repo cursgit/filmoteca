@@ -1,4 +1,4 @@
-# [Títol del llibre]
+# La novia gitana
 - __Autor__: Carmen mola
 - __Any__: 2018
 
@@ -10,7 +10,7 @@ Por eso, el comisario Rentero ha decidido apartar a Zárate del caso y encargár
 Investigar a una persona implica conocerla, descubrir sus secretos y contradicciones, su historia. En el caso de Lara y Susana, Elena Blanco debe asomarse a la vida de unos gitanos que han renunciado a sus costumbres para integrarse en la sociedad y a la de otros que no se lo perdonan, y levantar cada velo para descubrir quién pudo vengarse con tanta saña de ambas novias gitanas.
 
 ## Gèneres
-- 	Novela policíaca
+-   Novela policíaca
 -   Suspense
 
 
