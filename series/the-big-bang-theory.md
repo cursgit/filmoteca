@@ -9,8 +9,7 @@ The Big Bang Theory és una comèdia de situació que segueix la vida de dos fí
 - Romàntic
 
 
-##Temporades
-
+## Temporades
 The Big Bang Theory té un total de 12 temporades. Els títols de les temporades no són oficials, ja que simplement es coneixen com a "Temporada 1", "Temporada 2", etc. Aquí tens el llistat:
 
 - Temporada 1 (2007–2008)
