@@ -1,4 +1,4 @@
-# [Dark]
+# Dark
 
 ## Sinopsi
 ["Dark" es una serie alemana de ciencia ficción, drama y misterio que explora la naturaleza del tiempo y el destino a través de la desaparición de un niño en un pequeño pueblo alemán llamado Winden]
