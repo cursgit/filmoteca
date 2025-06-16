@@ -9,8 +9,8 @@ Tristán es un joven que vive en el curioso pueblo llamado Wall, un lugar que se
 ## Reparto
 - __Dirección__:  Matthew Vaughn
 - __Reparto__:
- - Charlie Cox
- - Claire Danes
- - Michelle Pfeiffer
- - Robert de Niro
- - Peter O'Toole
+    - Charlie Cox
+    - Claire Danes
+    - Michelle Pfeiffer
+    - Robert de Niro
+    - Peter O'Toole
