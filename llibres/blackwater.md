@@ -7,5 +7,5 @@ La saga narra l'història de la família Caskey, marcada per secrets, ambicions 
 
 ## Gèneres
 - Terror
-- Drama 
+- Drama
 - Misteri
