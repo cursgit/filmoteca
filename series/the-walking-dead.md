@@ -1,8 +1,7 @@
 # The Walking Dead
 
 ## Sinopsis
-En un mundo postapocalíptico devastado por un virus que convierte a las personas en zombies ("Caminantes"), un grupo de superviventes liderado por el cherif Rick Grimes lucha por sobrevivir en una nueva realidad donde estos seres no son el mayor de los peligro. 
-Esta serie esta basada en el comic, del mismo nombre.
+En un mundo postapocalíptico devastado por un virus que convierte a las personas en zombis (caminantes), un grupo de supervivientes liderado por el sheriff Rick Grimes lucha por sobrevivir en una nueva realidad en la que estos seres no son el mayor de los peligros. Esta serie está basada en el cómic del mismo nombre.
 
 ## Géneros
 - Terror
@@ -10,13 +9,13 @@ Esta serie esta basada en el comic, del mismo nombre.
 - Postapocalíptico
 
 ## Temporadas
-Cuenta con 11 temporadas lanzadas entre 2010 y 2022, y sin tener un nombre concreto, sus principales arcos argumentales son los siguientes:
-- Atlanta 
+Cuenta con 11 temporadas emitidas entre 2010 y 2022. Sus principales arcos argumentales son:
+- Atlanta
 - La granja
 - La prisión
 - Terminus
-- Alejandria
+- Alejandría
 - El Reino
 - Los Salvadores
-- Los Susurrantes
+- Los Susurradores
 - La Mancomunidad
