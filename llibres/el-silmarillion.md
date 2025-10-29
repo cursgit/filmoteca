@@ -30,7 +30,7 @@ Relata la historia de la isla de Númenor, el gran reino de los hombres. Con el 
 5. De los Anillos del Poder y la Tercera Edad
 Explica cómo Sauron, siervo de Morgoth, engaña a los hombres y a los elfos para forjar los Anillos de Poder y el Anillo Único, preparando el escenario para los acontecimientos de El Señor de los Anillos.
 
-## Gèneres
+## Géneros
 - Mitología inventada
 - Épica / Epopeya
 - Tragedia
