@@ -2,7 +2,7 @@
 - __Autor__: J.R.R. Tolkien
 - __Año de publicación__: 1977
 
-## Sinopsi
+## Sinopsis
 El Silmarillion es una obra mítica y fundacional del universo de la Tierra Media, escrita por J.R.R. Tolkien y publicada póstumamente por su hijo Christopher Tolkien en 1977. Funciona como una especie de “Biblia” de la mitología tolkieniana, relatando la creación del mundo (Arda), el surgimiento de las razas y los grandes acontecimientos que preceden a El Hobbit y El Señor de los Anillos.
 
 El libro se divide en varias partes principales:
