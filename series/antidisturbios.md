@@ -6,9 +6,9 @@ La sinopsis de la serie "Antidisturbios" se centra en seis agentes de una brigad
 
 ## Géneros
 
-- drama
-- thriller
-- acción
+- Drama
+- Thriller
+- Acción
 
 ## Temporadas
 
