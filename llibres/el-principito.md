@@ -3,7 +3,7 @@
 - __Any__: 1943
 
 ## Sinopsi
-és un conte poètic que ve acompanyat d'il·lustracions fetes amb aquarel·les pel mateix Saint-Exupéry
+L'obra narra la trobada entre un aviador perdut en el desert i un xicotet príncep que viatja per l'univers i aprén sobre la vida, l'amor i l'amistat.
 
 ## Gèneres
 - Novel·la filosòfica
