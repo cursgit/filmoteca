@@ -11,5 +11,4 @@ La sinopsis de la serie "Antidisturbios" se centra en seis agentes de una brigad
 - Acción
 
 ## Temporadas
-
 - Miniserie. 1 temporada (2020)
