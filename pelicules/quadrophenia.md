@@ -7,7 +7,7 @@ El protagonista principal és Jimmy, un membre dels mod que es mou per tot arreu
 
 ## Gèneres
 - Drama
-- Opera rock
+- Òpera rock
 
 ## Repartiment
 Director: Franc Roddam.
