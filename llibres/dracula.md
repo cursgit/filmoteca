@@ -1,10 +1,9 @@
 # Drácula
 - __Autor__: Bram Stoker
 - __Any de publicació__: 1897
-- __Gènere principal__: Terror gòtic
 
 ## Sinopsi
-La novel·la narra la lluita entre el Comte Drácula, un vampir de Transsilvània, i un grup de persones liderat pel Professor Abraham Van Helsing. La història comença quan el jove advocat Jonathan Harker viatja al castell de Drácula per ajudar-lo amb una transacció immobiliària a Anglaterra. Allà descobreix l'horrible veritat sobre el seu amfitrió.
+LLa novela narra la lucha entre el Conde Drácula, un vampiro de Transilvania, y un grupo de personas liderado por el Profesor Abraham Van Helsing. La historia comienza cuando el joven abogado Jonathan Harker viaja al castillo de Drácula para ayudarle con una transacción inmobiliaria en Inglaterra. Allí descubre la horrible verdad sobre su anfitrión.
 
 ## Personatges principals
 - __Comte Drácula__: Vampir immortal que busca estendre el seu regne
