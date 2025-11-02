@@ -6,5 +6,5 @@
 Un monjo franciscà i el seu deixeble investiguen una sèrie de misteriosos assassinats en un monestir medieval.
 
 ## Gèneres
--Misteri
--Histoòrica
+- Misteri
+- Histoòrica
