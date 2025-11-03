@@ -9,6 +9,6 @@ L'any 2800, en un planeta Terra devastat i sense vida, després de centenars de 
 - Ciència Ficció
 
 ## Repartiment
-Dirección - Andrew Stanton
+Direcció - Andrew Stanton
 Música - Thomas Newman
 Actores - Con: Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard, Macintalk, John Ratzenberger...
