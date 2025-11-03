@@ -1,4 +1,4 @@
-# El mon de Sofia
+# El món de Sofia
 - __Autor__: Jostein Gaarder
 - __Any__: 1991
 
