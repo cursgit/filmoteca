@@ -13,7 +13,7 @@ A la regió fictícia d’Arendelle, dues germanes princeses, l’Elsa i l’Ann
 ## Repartiment
 - **Direcció:** Chris Buck, Jennifer Lee  
 - **Guió:** Jennifer Lee  
-- **Veus principals (versió original):**  
+- **Veus principals (versió original):**
   - Idina Menzel (Elsa)  
   - Kristen Bell (Anna)  
   - Jonathan Groff (Kristoff)  
