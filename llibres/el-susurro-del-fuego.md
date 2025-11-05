@@ -1,4 +1,4 @@
-# [El susurro del fuego]
+# El susurro del fuego
 - __ Autor __: [Javier Castillo]
 - __Any de publicació__:[2025]
 
