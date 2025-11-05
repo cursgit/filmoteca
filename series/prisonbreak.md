@@ -5,7 +5,7 @@
 El tram de la sèrie gira en torn a Michael Scofield, que en un pla elaborat per rescatar al seu germà Lincoln Burrows, entra a "Fox River" una presó de màxima seguretat a prop de Chicago, per treure el seu germà acusat per un fals assassinat del germà de la vicepresidenta.
 
 ## Gèneres
-- Accio
+- Acció
 - Drama
 - Suspense
 
