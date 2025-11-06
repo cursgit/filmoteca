@@ -15,5 +15,4 @@ Ambientada en el mateix univers que *The Boys*, *Gen V* segueix un grup d’estu
 - Superherois
 
 ## Temporades
-
-1. 2 temporades
+2 temporades
