@@ -9,9 +9,9 @@ Gran part de la història transcorre en el pis de Monica i en la cafeteria Centr
 La sèrie combina comèdia romàntica i situacions de la vida adulta, tractant temes com l’amistat, l’amor, la independència i el creixement personal.
 
 ## Gènere
-- Comedia
+- Comèdia
 - Sitcom
-- Comedia romántica
+- Comèdia romàntica
 
 ## Temporades
 La sèrie compta amb 10 temporades:
