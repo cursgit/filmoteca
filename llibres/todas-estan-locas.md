@@ -1,4 +1,4 @@
-# [Títol del llibre]
+# Todas estan locas
 - __Autor__: Eley Grey
 - __Any de publicació__: 2010
 
