@@ -1,10 +1,10 @@
 # Projecte Hail Mary
 
 - __Autor__: Andy Weir
-- __Any de publicació__: 2021
+- __Any__: 2021
 
 ## Sinopsi
-Un astronauta en mig de l'espai.
+Un astronauta enmig de l'espai.
 Té una missió quasi impossible.
 Troba un aliat mai imaginat.
 
