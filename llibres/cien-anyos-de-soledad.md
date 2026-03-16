@@ -1,25 +1,25 @@
-Don Quijote de la Mancha
+Cien años de soledad
 
-Autor: Miguel de Cervantes
+Autor: Gabriel García Márquez
 
-Any de publicació: 1605 (primera part) i 1615 (segona part)
+Any de publicació: 1967
 
 Sinopsi
 
-Don Quijote de la Mancha conta la història d’un hidalgo de La Manxa anomenat Don Quijote que, després de llegir massa llibres de cavalleria, decideix convertir-se en cavaller errant per defensar els dèbils i viure aventures heroïques.
+Cien años de soledad narra la història de la família Familia Buendía al llarg de diverses generacions al poble fictici de Macondo.
 
-Acompanyat pel seu fidel escuder Sancho Panza, recorre diferents llocs d’Espanya buscant aventures. No obstant això, la seua visió del món està distorsionada per la fantasia, cosa que provoca situacions còmiques i absurdes, com quan confon molins de vent amb gegants.
+La novel·la comença amb la fundació del poble per part de José Arcadio Buendía i la seua esposa Úrsula Iguarán. Al llarg dels anys, els membres de la família viuen històries d’amor, tragèdies, guerres i esdeveniments extraordinaris que es barregen amb elements màgics i fantàstics.
 
-L’obra combina humor, crítica social i reflexions sobre la realitat i la imaginació, i està considerada una de les novel·les més importants de la literatura universal.
+L’obra mostra la solitud, el pas del temps i la repetició dels errors humans, tot barrejant la realitat amb elements meravellosos característics del realisme màgic.
 
 Gèneres
 
 Novel·la
 
-Sàtira
+Realisme màgic
 
-Paròdia dels llibres de cavalleria
+Literatura llatinoamericana
 
-Literatura clàssica
+Saga familiar
 
-Novel·la d’aventures
+Ficció literària
