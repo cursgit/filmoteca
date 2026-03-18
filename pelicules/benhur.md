@@ -17,3 +17,4 @@ Tras años de penurias, regresa a Judea para enfrentarse a Messala en una épica
 - **Jack Hawkins** como **Quinto Arrio**, el comandante romano que adopta a Judá.
 - **Haya Harareet** como **Esther**, el interés amoroso de Judá
 
+
