@@ -1,12 +1,12 @@
 # El jovencito Frankestein
 
-## Sinopsi
+## Sinopsis
 El joven doctor Frederick Frankenstein, un neurocirujano norteamericano, trata de escapar del estigma legado por su abuelo, quien creó años atrás una horrible criatura. 
 
-## Gèneres
+## Género
 Comedia
 
-## Repartiment
+## Reparto
 Director: Mel Brooks
-Actors: Gene Wilder, Marty Feldman
-Actriu: Teri Garr
+Actores: Gene Wilder, Marty Feldman
+Actriz: Teri Garr
