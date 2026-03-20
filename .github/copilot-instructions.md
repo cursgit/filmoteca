@@ -65,35 +65,33 @@ Use the following allowlist when validating headings and field names. Treat each
 
 ### `llibres/` — Section headings
 
-| Concept       | Catalan           | Spanish            | English     |
-|---------------|-------------------|--------------------|-------------|
+| Concept       | Catalan           | Spanish            | English       |
+|---------------|-------------------|--------------------|---------------|
 | Synopsis      | `## Sinopsi`      | `## Sinopsis`      | `## Synopsis` |
-| Genres        | `## Gèneres`      | `## Géneros`       | `## Genres` |
+| Genres        | `## Gèneres`      | `## Géneros`       | `## Genres`   |
 
 ### `llibres/` — Field names
 
-| Concept          | Catalan                                   | Spanish                                     | English       |
-|------------------|-------------------------------------------|---------------------------------------------|---------------|
-| Author           | `__Autor__`                               | `__Autor__`                                 | `__Author__`  |
-| Publication year | `__Any de publicació__` or `__Any__`      | `__Año de publicación__` or `__Año__`       | `__Year__`    |
-
-> The short forms `__Any__` (Catalan) and `__Año__` (Spanish) are accepted equivalents of the full publication year field. In English, `__Year__` covers both forms.
+| Concept          | Catalan                 | Spanish                  | English       |
+|------------------|-------------------------|--------------------------|---------------|
+| Author           | `__Autor__`             | `__Autor__`              | `__Author__`  |
+| Publication year | `__Any de publicació__` | `__Año de publicación__` | `__Year__`    |
 
 ### `pelicules/` — Section headings
 
-| Concept       | Catalan             | Spanish            | English     |
-|---------------|---------------------|--------------------|-------------|
+| Concept       | Catalan             | Spanish            | English       |
+|---------------|---------------------|--------------------|---------------|
 | Synopsis      | `## Sinopsi`        | `## Sinopsis`      | `## Synopsis` |
-| Genres        | `## Gèneres`        | `## Géneros`       | `## Genres` |
-| Cast          | `## Repartiment`    | `## Reparto`       | `## Cast`   |
+| Genres        | `## Gèneres`        | `## Géneros`       | `## Genres`   |
+| Cast          | `## Repartiment`    | `## Reparto`       | `## Cast`     |
 
 ### `series/` — Section headings
 
-| Concept       | Catalan             | Spanish            | English     |
-|---------------|---------------------|--------------------|-------------|
+| Concept       | Catalan             | Spanish            | English       |
+|---------------|---------------------|--------------------|---------------|
 | Synopsis      | `## Sinopsi`        | `## Sinopsis`      | `## Synopsis` |
-| Genres        | `## Gèneres`        | `## Géneros`       | `## Genres` |
-| Cast          | `## Repartiment`    | `## Reparto`       | `## Cast`   |
+| Genres        | `## Gèneres`        | `## Géneros`       | `## Genres`   |
+| Cast          | `## Repartiment`    | `## Reparto`       | `## Cast`     |
 
 </LanguageMapping>
 
