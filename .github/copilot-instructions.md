@@ -91,8 +91,10 @@ Use the following allowlist when validating headings and field names. Treat each
 |---------------|---------------------|--------------------|---------------|
 | Synopsis      | `## Sinopsi`        | `## Sinopsis`      | `## Synopsis` |
 | Genres        | `## Gèneres`        | `## Géneros`       | `## Genres`   |
-| Cast          | `## Repartiment`    | `## Reparto`       | `## Cast`     |
+| Seasons       | `## Temporades`     | `## Temporadas`    | `## Seasons`  |
+| Cast (opt.)   | `## Repartiment`    | `## Reparto`       | `## Cast`     |
 
+_Note_: Treat **Seasons/Temporades** as a core section for series if the `series/README.md` specifies it. The **Cast** section is optional and should only be required if explicitly indicated by the `series/README.md`.
 </LanguageMapping>
 
 <StepsToFollow>
