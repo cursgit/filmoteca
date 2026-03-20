@@ -8,7 +8,7 @@ Tras años de penurias, regresa a Judea para enfrentarse a Messala en una épica
 - Drama
 - Aventura
 
-## Direcció
+## Dirección
 - **William Wyler** 
 
 ## Repartiment
