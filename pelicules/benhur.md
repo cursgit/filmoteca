@@ -11,7 +11,7 @@ Tras años de penurias, regresa a Judea para enfrentarse a Messala en una épica
 ## Dirección
 - **William Wyler** 
 
-## Repartiment
+## Reparto
 - **Charlton Heston** como **Judá Ben-Hur**
 - **Stephen Boyd** como **Messala**, el antagonista y antiguo amigo de la infancia de Judá.
 - **Jack Hawkins** como **Quinto Arrio**, el comandante romano que adopta a Judá.
