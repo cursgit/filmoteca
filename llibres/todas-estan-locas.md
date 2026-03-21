@@ -3,7 +3,7 @@
 - __Any de publicació__: 2010
 
 ## Sinopsi
-Àlex és criada per la seua àvia i viu una situació incòmoda junt a la seua família
+Àlex és criada per la seua àvia i viu una situació incòmoda junt a la seua família.
 
 ## Gèneres
 - Suspense
