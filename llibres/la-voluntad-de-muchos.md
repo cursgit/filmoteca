@@ -1,9 +1,9 @@
-# La voluntad de muchos
+# La voluntad de molts
 - __Autor__: James Islington
 - __Any de publicació__: 2025
 
 ## Sinopsi
-En la elitista Academia Catena, un joven fugitivo va a ir desvelando las capas de un elaborado misterio y secretos capaces de cambiar el mundo a lo largo de esta nueva saga de fantasía del autor superventas internacional James Islington.
+En l'elitista Acadèmia Catena, un jove fugitiu anirà revelant les capes d'un elaborat misteri i secrets capaços de canviar el món al llarg d'esta nova saga de fantasia de l'autor supervendes internacional James *Islington.
 
 ## Gèneres
 - Fantasia
