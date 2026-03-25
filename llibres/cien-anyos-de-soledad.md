@@ -12,7 +12,7 @@ La novel·la comença amb la fundació del poble per part de José Arcadio Buend
 
 L’obra mostra la solitud, el pas del temps i la repetició dels errors humans, tot barrejant la realitat amb elements meravellosos característics del realisme màgic.
 
-- __Gèneres__:
+## Gèneres:
 
 - Novel·la
 - Realisme màgic
