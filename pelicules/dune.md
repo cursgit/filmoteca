@@ -1,7 +1,7 @@
 # Dune
 
 ## Sinopsi
-Dune, dirigida por Denis Villeneuve, es una película de ciencia ficción ambientada en un futuro lejano en el que distintas casas nobles compiten por el control del planeta Arrakis, la única fuente de la especia más valiosa del universo. La historia sigue a Paul Atreides, heredero de la Casa Atreides, mientras su familia asume el control de Arrakis y se enfrenta a traiciones, conflictos políticos y fuerzas misteriosas que marcarán su destino.
+Dune (2021), dirigida por Denis Villeneuve, es una película de ciencia ficción ambientada en un futuro lejano en el que distintas casas nobles compiten por el control del planeta Arrakis, la única fuente de la especia más valiosa del universo. La historia sigue a Paul Atreides, heredero de la Casa Atreides, mientras su familia asume el control de Arrakis y se enfrenta a traiciones, conflictos políticos y fuerzas misteriosas que marcarán su destino.
 
 ## Gèneres
 - Ciència-ficció
