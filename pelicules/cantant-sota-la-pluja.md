@@ -6,7 +6,7 @@ L’ídol del cinema Don Lockwood pensava que ho tenia tot a la vida: fama, fort
 ## Gèneres
 - Musical
 - Comedia
-- Edad oro Hollywood
+- Edat d´or de Hollywood
 
 ## Repartiment
 - __Direcció__: Stanley Donen
