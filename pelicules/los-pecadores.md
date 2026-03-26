@@ -10,4 +10,4 @@ Tratando de dejar atrás sus problemáticas aunque exitosas vidas en Chicago, do
 ## Reparto
 Director: Ryan Coogler
 Guion:Ryan Coogler
-Reparto: Michael B. Jordan, Hailee Steinfield, Miles Caton.
+Reparto: Michael B. Jordan, Hailee Steinfeld, Miles Caton.
