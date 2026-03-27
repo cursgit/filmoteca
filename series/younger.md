@@ -1,6 +1,6 @@
 # Younger
 
-##Sinopsis
+## Sinopsis
 Ambientada en la ciudad de Nueva York, la historia sigue la vida personal y profesional de Liza Miller (Sutton Foster), una madre recién divorciada de 40 años de edad, a quien su marido dejó por una mujer más joven, que trata sin éxito de conseguir trabajo después de 15 años inactiva.
 
 ## Géneros
