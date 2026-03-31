@@ -1,6 +1,6 @@
  # Africanus: el hijo del cónsul
  - __Autor__: Santiago Posteguillo
- - __Any__: 2008
+ - __Any de publicació__: 2008
       
  ## Sinopsi
  És la primera part de la trilogia del mateix nom. 
