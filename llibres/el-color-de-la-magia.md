@@ -1,6 +1,6 @@
 # El color de la magia
 - __Autor__: Terry Pratchett
-- __Any__: 1983 
+- __Any de publicació__: 1983 
 
 ## Sinopsi
 A la ciudad-estado de Ankh-Morpork llega Dosflores, el primer turista de todo el Mundodisco. Un tipo confiado y muy seguro, cree firmemente en que no le pasará nada malo y que hablando muy despacio y muy alto todos pueden entenderle. Siempre es acompañado de El equipaje, un baúl de peral sabio con tendencias homicidas repleto de oro. Dosflores procede del Continente Contrapeso, donde el oro es abundante y barato.

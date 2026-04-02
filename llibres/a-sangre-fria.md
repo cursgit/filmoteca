@@ -1,6 +1,6 @@
 # A sangre fría
 - __Autor__: Truman Capote
-- __Any__: 1966
+- __Any de publicació__: 1966
 
 ## Sinopsi
 A sangre fría narra el brutal asesinato de los cuatro miembros de una familia de Kansas. En 1959, un violento crimen sacudió la tranquila vida de Holcomb, Kansas. La sociedad estadounidense de aquellos años quedó conmocionada por un crimen que sugería que cualquiera podía morir asesinado en cualquier momento.
