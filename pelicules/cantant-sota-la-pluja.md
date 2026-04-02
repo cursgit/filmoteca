@@ -5,7 +5,7 @@ L’ídol del cinema Don Lockwood pensava que ho tenia tot a la vida: fama, fort
 
 ## Gèneres
 - Musical
-- Comedia
+- Comèdia
 - Edat d´or de Hollywood
 
 ## Repartiment
