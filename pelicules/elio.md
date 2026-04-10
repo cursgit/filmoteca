@@ -4,13 +4,14 @@
 Elio és un xiquet d'11 anys amb una imaginació desbordant i una gran obsessió pels extraterrestres. Quan, de sobte, es veu transportat a una organització interplanetària, és identificat per error com l'ambaixador galàctic de la Terra.
 
 ## Gèneres
-- Animació. 
-- Ciència-ficció. 
-- Comèdia.
-- Aventures | Infància. 
-- Extraterrestres.
-- Aventura espacial. - Amistat.
-- Pixar
+- Animació
+- Ciència-ficció
+- Comèdia
+- Aventures
+- Infància
+- Extraterrestres
+- Aventura espacial
+- Amistat
 
 # Repartiment
 Directors: Madeline Sharafian, Domee Shi, Adrián Molina
