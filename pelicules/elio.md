@@ -13,7 +13,7 @@ Elio és un xiquet d'11 anys amb una imaginació desbordant i una gran obsessió
 - Aventura espacial
 - Amistat
 
-# Repartiment
+## Repartiment
 Directors: Madeline Sharafian, Domee Shi, Adrián Molina
 Veus principals:
 - Yonas Kibreab com Elio Solís.
