@@ -1,6 +1,6 @@
 # La novia gitana
 - __Autor__: Carmen mola
-- __Any__: 2018
+- __Any de publicació__: 2018
 
 ## Sinopsi
 Susana Macaya, de padre gitano pero educada como paya, desaparece tras su fiesta de despedida de soltera. El cadáver es encontrado dos días después en la Quinta de Vista Alegre del madrileño barrio de Carabanchel. Podría tratarse de un asesinato más, si no fuera por el hecho de que la víctima ha sido torturada siguiendo un ritual insólito y atroz, y de que su hermana Lara sufrió idéntica suerte siete años atrás, también en vísperas de su boda. El asesino de Lara cumple condena desde entonces, por lo que solo caben dos posibilidades: o alguien ha imitado sus métodos para matar a la hermana pequeña, o hay un inocente encarcelado.
