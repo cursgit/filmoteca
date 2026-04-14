@@ -1,46 +1,20 @@
-# \# Matrix
+# The Matrix
+- __Any__: 1999
 
-# 
+## Sinopsi
+En un futur distòpic, un programador informàtic anomenat Thomas Anderson, que secretament és un hacker conegut com a "Neo", descobreix que la realitat és una simulació elaborada creada per màquines intel·ligents per sotmetre la humanitat. Amb l'ajuda del misteriós Morpheus i la perillosa Trinity, Neo s'embarca en una rebel·lió contra les màquines, enfrontant-se als agents del sistema i qüestionant tot allò que creia saber.
 
-# \## Sinopsi
+## Gèneres
+- Ciència-ficció
+- Acció
+- Ciberpunk
 
-# En un futur distòpic, un programador informàtic anomenat Thomas Anderson, que secretament és un hacker conegut com a "Neo", descobreix que la realitat és una simulació creada per màquines per controlar la humanitat. Amb l'ajuda de Morpheus i Trinity, iniciarà una rebel·lió contra el sistema.
-
-# 
-
-# \## Gèneres
-
-# \- Ciència-ficció
-
-# \- Acció
-
-# \- Ciberpunk
-
-# 
-
-# \## Repartiment
-
-# \- Direcció:
-
-# &#x20; - Lana Wachowski
-
-# &#x20; - Lilly Wachowski
-
-# \- Actors principals:
-
-# &#x20; - Keanu Reeves (Neo)
-
-# &#x20; - Laurence Fishburne (Morpheus)
-
-# &#x20; - Carrie-Anne Moss (Trinity)
-
-# &#x20; - Hugo Weaving (Agent Smith)
-
-# 
-
-# \## Informació addicional
-
-# \- Any: 1999
-
-# \- Director: Wachowski
-
+## Repartiment
+- __Direcció__: Les germanes Wachowski 
+    - Lana Wachowski
+    - Lilly Wachowski
+- __Actors i actrius principals__:
+    - Keanu Reeves (Neo)
+    - Laurence Fishburne (Morpheus)
+    - Carrie-Anne Moss (Trinity)
+    - Hugo Weaving (Agent Smith)
