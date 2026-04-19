@@ -9,7 +9,6 @@ habitan: los políticos, los medios de comunicación, los drogadictos y los ciud
 ## Géneros
 - Drama policial
 - Drama psicológico
-- Crimen
 
 ## Temporadas
 - **Temporada 1**: *The Target*
