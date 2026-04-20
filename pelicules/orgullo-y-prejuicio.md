@@ -9,7 +9,7 @@ Narra la historia de las hermanas Bennet en la inglaterra del siglo XIX, centrá
 
 
 ## Repartiment
-Keira Knightley
-Matthew Macfadyen
-Rosamund Pike
-Donald Sutherland
+- Keira Knightley
+- Matthew Macfadyen
+- Rosamund Pike
+- Donald Sutherland
