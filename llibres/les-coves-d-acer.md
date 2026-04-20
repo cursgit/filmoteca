@@ -1,7 +1,7 @@
 # Les Coves d'Acer
 - __Autor__: Isaac Asimov
 - __Títol original__: The Caves of Steel
-- __Any__: 1954
+- __Any de publicació__: 1954
 
 ## Sinopsi
 Sinopsi del llibre.
