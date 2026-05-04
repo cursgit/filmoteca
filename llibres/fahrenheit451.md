@@ -1,7 +1,7 @@
 # Fahrenheit 451
 
 - __Autor__: Ray Bradbury
-- __Any__: 1953
+- __Any de publicació__: 1953
 
 ## Sinopsi
 
