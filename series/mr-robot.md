@@ -15,7 +15,7 @@ Mr. Robot és una sèrie de thriller psicològic i drama tecnològic protagonitz
 
 4 temporades
 
-- Temporada 1
-- Temporada 2
-- Temporada 3
-- Temporada 4
+- Temporada 1: eps1.0_hellofriend.mov
+- Temporada 2: eps2.0_unm4sk-pt1.tc
+- Temporada 3: eps3.0_power-saver-mode.h
+- Temporada 4: Unauthorized
