@@ -4,10 +4,11 @@
 - __Any de publicació__: 2021
 
 ## Sinopsi
-Un astronauta enmig de l'espai.
-Té una missió quasi impossible.
-Troba un aliat mai imaginat.
+
+Ryland Grace desperta en una nau espacial sense recordar qui és ni per què es troba allí. A mesura que recupera la memòria, descobreix que és l'única esperança per salvar la Terra d'una amenaça que posa en perill la supervivència de la humanitat.
 
 ## Gèneres
-- Ciència-ficció dura
-- Aventura de supervivència
+
+- Ciència-ficció
+- Aventura
+- Thriller
