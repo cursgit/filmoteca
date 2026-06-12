@@ -1,6 +1,6 @@
 # Los Miserables
-* *Autor*: Victor Hugo
-* *Any de publicació*: 1862
+* **Autor**: Victor Hugo
+* **Any de publicació**: 1862
 
 ## Sinopsi
 
