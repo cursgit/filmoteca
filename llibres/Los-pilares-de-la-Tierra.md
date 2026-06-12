@@ -1,4 +1,4 @@
-# [Los pilares de la Tierra]
+# Los pilares de la Tierra
 - __Autor__: Ken Follett
 - __Any de publicació__: 1989
 
