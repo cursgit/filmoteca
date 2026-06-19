@@ -11,5 +11,5 @@ Any 2073. Fa més de 60 anys la Terra va ser atacada; es va guanyar la guerra, p
 
 ## Repartiment
 Direcció: Joseph Kosinski
-Guió: Joseph Kosinski, Michael Arndt, Karl Gajdusek. Cómic: Joseph Kosinski, Arvid Nelson
+Guió: Joseph Kosinski, Michael Arndt, Karl Gajdusek. Còmic: Joseph Kosinski, Arvid Nelson
 Actors i actrius principals: Tom Cruise, Olga Kurylenko, Andrea Riseborough, Morgan Freeman, Nikolaj Coster-Waldau, Zoe Bell, Melissa Leo
