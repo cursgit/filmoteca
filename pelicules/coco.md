@@ -10,3 +10,9 @@ Miguel, un xiquet apassionat per la música, es veu transportat accidentalment a
 - Família
 - Fantasia
 - Musical
+
+## Repartiment
+- Miguel Rivera - Anthony González
+- Héctor - Gael GArcía Bernal
+- Ernesto de la Cruz - Benjamín Bratt
+- Imelda - Alanna Ubach
