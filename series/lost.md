@@ -1,6 +1,6 @@
 # Lost
 
-**Sinopsi:**
+## Sinopsi
 Després d'un accident de vol, els supervivents d'un avió que es dirigia a Sydney queduen atrapats en una illa misteriosa. Han d'aprendre a viure junts mentre descobreixen secrets sobrenaturals, una població local amagada i anomalies temporals que complican la seua situació.
 
 **Gèneres:**
