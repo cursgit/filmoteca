@@ -2,7 +2,7 @@
 
 - __Director__: Pete Docter
 
-Año: 2015
+- __Año de estreno__: 2015
 
 
 
