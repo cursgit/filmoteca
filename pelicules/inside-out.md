@@ -1,6 +1,6 @@
 # Inside Out (Del revés)
 
-Director: Pete Docter
+- __Director__: Pete Docter
 
 Año: 2015
 
