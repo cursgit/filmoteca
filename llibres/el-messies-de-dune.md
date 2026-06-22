@@ -1,4 +1,4 @@
-# Llibre: El messies de Dune
+# El messies de Dune
 - __Autor__: Frank Herbert
 - __Any de publicació__: 1969
 
