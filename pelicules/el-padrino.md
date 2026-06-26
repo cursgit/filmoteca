@@ -1,11 +1,11 @@
 # El Padrino
 
-## Sinopsis
-Nueva York, años 40. Don Vito Corleone es el patriarca de una de las cinco familias de la mafia ítaloamericana. Cuando rechaza participar en el negocio del narcotráfico que le propone otro capo, estalla una guerra entre clanes que sitúa a su hijo menor, Michael —hasta entonces ajeno a los asuntos de la familia—, en el centro del conflicto. La película narra su transformación en el nuevo jefe del clan Corleone.
+## Sinopsi
+Nova York, anys 40. Don Vito Corleone és el patriarca d'una de les cinc famílies de la màfia italoamericana. Quan es nega a participar en el negoci del narcotràfic que li proposa un altre capo, esclata una guerra entre clans que situa el seu fill menut, Michael —fins llavors aliè als assumptes de la família—, al centre del conflicte. La pel·lícula narra la seua transformació en el nou cap del clan Corleone.
 
-## Géneros
+## Gèneres
 - Drama
-- Crimen
+- Crim
 
-## Reparto
-Dirigida por Francis Ford Coppola. Protagonizada por Marlon Brando (Don Vito Corleone), Al Pacino (Michael Corleone), James Caan (Sonny Corleone) y Robert Duvall (Tom Hagen).
+## Repartiment
+Dirigida per Francis Ford Coppola. Protagonitzada per Marlon Brando (Don Vito Corleone), Al Pacino (Michael Corleone), James Caan (Sonny Corleone) i Robert Duvall (Tom Hagen).
