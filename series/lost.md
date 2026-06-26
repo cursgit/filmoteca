@@ -10,9 +10,9 @@ Després d'un accident de vol, els supervivents d'un avió que es dirigia a Sydn
 - Aventura
 
 ## Temporades
-1 (2004–2005)
-2 (2005–2006)
-3 (2006–2007)
-4 (2008)
-5 (2009)
-6 (2010)
+1. (2004–2005)
+2. (2005–2006)
+3. (2006–2007)
+4. (2008)
+5. (2009)
+6. (2010)
